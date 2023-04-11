@@ -57,4 +57,5 @@
 
   <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petarpechev&langs_count=6&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&count_private=true&include_all_commits=true&hide=smalltalk,shell,html,scss,css" />
 </a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=petarpechev&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
