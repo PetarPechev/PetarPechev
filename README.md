@@ -6,7 +6,7 @@
 ![Profile views:](https://visitor-badge.glitch.me/badge?page_id=petarpechev) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pechev/) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/petarpechev)
-[![GitLab](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=GitLab&logoColor=orange)](https://gitlab.com/p.pechev)
+[![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=GitLab&logoColor=orange)](https://gitlab.com/p.pechev)
 
 
 🎓 I am currently pursuing my **Automation, information and control engineering**. <br>
