@@ -15,6 +15,7 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=GitLab&logoColor=orange)](https://gitlab.com/p.pechev)
 
 
+### :man_technologist: About Me :
 🎓 I am currently pursuing my **Automation, information and control engineering**. <br>
 🌱 I am currently learning **Java**, **JavaScript** and also interested in **Web Development**. <br>
 🔭 I have been involved in Java, JavaScript, HTML, CSS, MySQL. <br>
