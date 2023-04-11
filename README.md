@@ -38,10 +38,10 @@
 [![Logo SoftUni](https://user-images.githubusercontent.com/113022603/188855109-f3fd8228-d74a-4b20-8a22-c5758a5177f7.png)](https://softuni.bg/trainings/courses)
 
 ## Certificates
-[![Programing Basics](https://scontent.fsof4-1.fna.fbcdn.net/v/t1.6435-9/203691687_10226252090072472_5089358214664817415_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8631f5&_nc_ohc=UoIZJssjbKUAX_veYbI&_nc_ht=scontent.fsof4-1.fna&oh=00_AfAuWuUlCxzxqOUL1YIyNpMprXb8SgwxLJuDYRUMoPiIbg&oe=645C3E9B)](https://softuni.bg/certificates/details/64260/e0d5160b)
-[![Programming Fundamentals with Java](https://user-images.githubusercontent.com/113022603/206158668-3856f272-f88e-410f-b160-4f03da93c8bc.jpg)](https://softuni.bg/Certificates/Details/103600/9b7bd6b6)
-[![Java_Advanced](https://user-images.githubusercontent.com/113022603/220576334-eac3da50-c5d7-4bb5-aab4-1c7276356888.jpg)](https://softuni.bg/Certificates/Details/161745/f7de20a4)
-[![MySQL](https://softuni.bg/files/courses/mysql123.jpg)](https://softuni.bg/Certificates/Details/151497/e953b594)
+[![Programing Basics]](https://softuni.bg/certificates/details/64260/e0d5160b)
+[![Programming Fundamentals with Java]](https://softuni.bg/Certificates/Details/103600/9b7bd6b6)
+[![Java_Advanced]](https://softuni.bg/Certificates/Details/161745/f7de20a4)
+[![MySQL]](https://softuni.bg/Certificates/Details/151497/e953b594)
 
 
 
