@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Petar Pechev</h1>
-<h3 align="center">A passionate backend developer from Bulgaria</h3>
+<h3 align="center">A passionate Java backend developer from Bulgaria</h3>
 
 
 <div align="center">
