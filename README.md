@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Petar Pechev</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PetarPechev&label=Profile%20views&color=0e75b6&style=flat" alt="PetarPechev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PetarPechev&label=Profile%20views&color=0e75b6&style=flat" alt="petarpechev" /> </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PetarPechev) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pechev/) 
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/PetarPechev)
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/petarpechev)
 
 
 🎓 I am currently pursuing my **Automation, information and control engineering**. <br>
@@ -27,8 +27,8 @@
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=PetarPechev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="PetarPechev" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PetarPechev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="PetarPechev" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarpechev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="PetarPechev" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=petarpechev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="PetarPechev" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PetarPechev&theme=highcontrast&hide_border=true" alt="PetarPechev" />
 </p>
 
