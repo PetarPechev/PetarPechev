@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PetarPechev&label=Profile%20views&color=0e75b6&style=flat" alt="petarpechev" /> </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=petarpechev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pechev/) 
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/petarpechev)
 [![GitLab](https://img.shields.io/badge/-GitLab-000000?style=flat-square&logo=GitLab&logoColor=orange)](https://gitlab.com/p.pechev)
