@@ -38,10 +38,10 @@
 [![Logo SoftUni](https://user-images.githubusercontent.com/113022603/188855109-f3fd8228-d74a-4b20-8a22-c5758a5177f7.png)](https://softuni.bg/trainings/courses)
 
 ## Certificates
-[![Programing Basics]]  (https://softuni.bg/certificates/details/64260/e0d5160b)
-[![Programming Fundamentals with Java]] (https://softuni.bg/Certificates/Details/103600/9b7bd6b6)
-[![Java_Advanced]] (https://softuni.bg/Certificates/Details/161745/f7de20a4)
-[![MySQL]] (https://softuni.bg/Certificates/Details/151497/e953b594)
+<a href="https://softuni.bg/certificates/details/64260/e0d5160b">Programing Basics</a> <br>
+<a href="https://softuni.bg/Certificates/Details/103600/9b7bd6b6">Programming Fundamentals with Java</a> <br>
+<a href="https://softuni.bg/Certificates/Details/161745/f7de20a4">Java_Advanced</a> <br>
+<a href="https://softuni.bg/Certificates/Details/151497/e953b594">MySQL</a> <br>
 
 
 
