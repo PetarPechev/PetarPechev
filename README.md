@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petar Pechev</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -43,7 +41,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=petarpechev&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 ## Certificates
 <a href="https://softuni.bg/certificates/details/64260/e0d5160b">Programing Basics</a> <br>
