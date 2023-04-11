@@ -44,14 +44,11 @@
 
 
 
+
 ## Certificates
 <a href="https://softuni.bg/certificates/details/64260/e0d5160b">Programing Basics</a> <br>
 <a href="https://softuni.bg/Certificates/Details/103600/9b7bd6b6">Programming Fundamentals with Java</a> <br>
 <a href="https://softuni.bg/Certificates/Details/161745/f7de20a4">Java_Advanced</a> <br>
 <a href="https://softuni.bg/Certificates/Details/151497/e953b594">MySQL</a> <br>
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko) 
 
