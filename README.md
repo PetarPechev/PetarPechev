@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Petar Pechev</h1>
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PetarPechev&label=Profile%20views&color=0e75b6&style=flat" alt="petarpechev" /> </p>
 
