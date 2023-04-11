@@ -41,10 +41,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=petarpechev&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ## Certificates
 <a href="https://softuni.bg/certificates/details/64260/e0d5160b">Programing Basics</a> <br>
 <a href="https://softuni.bg/Certificates/Details/103600/9b7bd6b6">Programming Fundamentals with Java</a> <br>
