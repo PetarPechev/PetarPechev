@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PetarPechev&label=Profile%20views&color=0e75b6&style=flat" alt="PetarPechev" /> </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PetarPechev) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pechev/) 
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/PetarPechev)
+
 
 🎓 I am currently pursuing my **Automation, information and control engineering**. <br>
 🌱 I am currently learning **Java**, **JavaScript** and also interested in **Web Development**. <br>
